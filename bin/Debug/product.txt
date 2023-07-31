@@ -1,0 +1,6 @@
+
+dthw,545,ds,s,3
+fh,45,rth,s,54545
+f,5,gf,s,4
+s302,2,black,s,40000
+p12,12,black,s,1000
