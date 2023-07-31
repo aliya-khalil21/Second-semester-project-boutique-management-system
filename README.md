@@ -1,1 +1,1 @@
-# Second-semester-project-boutique-management-system
+# Boutique-management-system

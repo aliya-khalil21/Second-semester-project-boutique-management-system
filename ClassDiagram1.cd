@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bb.BL.MUser">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABAAAAAAAIABAAAAAEAAgAAAAEQgAAAIA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.BL.Product">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACCICBEIgKAAQAQAAAAACAEAggAAAAAAI=</HashCode>
+      <FileName>BL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.BL.Brandname">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAEAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>BL\Brandname.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.BL.Cart1">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACCAAAAAgAAAAAQAAAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>BL\Cart1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.DL.CartDL">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAQCAAAAAEAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>DL\CartDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.DL.MUserDL">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAEAAAAAAAAAAQATAgAAQAQAAAAABAAAAACAAQA=</HashCode>
+      <FileName>DL\MUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.DL.ProductDL">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAQAAEiAASQCAAAEQIAIIIIgBAAAAAAAAwA=</HashCode>
+      <FileName>DL\ProductDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Form1">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAAACAAAACAAAAAAAAAAQAAQEAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Form2">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAAAgCAAABAAAACAAAACAAAYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Form3">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACACABCAAAYAAAAEGBAAABAAAg=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.lodinload">
+    <Position X="0.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIhQAACAAAABAAACAQAACAAkIAAAAAEAAAQBAAAA=</HashCode>
+      <FileName>lodinload.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Payment">
+    <Position X="4.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAQAACAAABBAAACAAABCAMg7AAAAEAABAAABgAA=</HashCode>
+      <FileName>Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Productform">
+    <Position X="6" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAUAASAAABDBAACAAABCIMw7AAAAUEAHAQABAAA=</HashCode>
+      <FileName>Productform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Seeproductcs">
+    <Position X="7.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAMhQAACAQABBAAACAQAACAEg6AAAAAHAZAYBBAAA=</HashCode>
+      <FileName>Seeproductcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.Seller">
+    <Position X="9" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBAACAQAACAAARAAAACAAAACAcAZAAIAwDArAQAAQAA=</HashCode>
+      <FileName>Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bb.sharecs">
+    <Position X="2.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAhAAACAAABAAAACAAAASACAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>sharecs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
